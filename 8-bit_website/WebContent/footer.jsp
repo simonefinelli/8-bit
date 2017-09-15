@@ -46,7 +46,7 @@
     <div class="footer-copyright">
         <div class="container-fluid">
         	<br>
-           <p>Made By <a href="Alfredo_Homepage.html" target="_blank">Alfrex</a>, <a href="Giacomo_Home.html" target="_blank">Giacomix</a>, <a href="simone_home.html" target="_blank">Simox</a></p>
+           <p>Made By <a href="Alfredo_Homepage.html" target="_blank">Alfrex</a>, <a href="Giacomo_Home.html" target="_blank">Giacomix</a>, <a href="Simone_home.html" target="_blank">Simox</a></p>
            <p>DISCLAIMER: THIS WEBSITE IS JUST FOR DIDACTICAL PURPOSE!</p> 
 
         </div>
