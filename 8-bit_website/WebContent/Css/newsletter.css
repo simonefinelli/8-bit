@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+@media screen and (max-width: 350px) {
+	
+	
+	#immagine_8bit{
+		width:180px; 
+		height:60px;
+	}
+	
+}
+
+
+@media screen and (max-width: 768px) {
+	
+	
+	#id_folowus {
+		margin-top:40px;
+	}
+	
+}
+
+
+@media screen and (max-width: 390px) {
+	
+	
+	#id_email_news{
+		width:90%;
+	}
+	
+}
+
+
+  
+
+

@@ -1,0 +1,565 @@
+@CHARSET "UTF-8";
+
+@media screen and (max-width: 350px) {
+	
+	
+	#immagine_8bit{
+		width:180px; 
+		height:60px;
+	}
+	
+}
+
+@media screen and (max-width: 1000px) {
+	
+	
+	
+	#gioco_0 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_1 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_2 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_3 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_4 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_5 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_6 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_7 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_8 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_9 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_10 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_11 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_12 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_13 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_14 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_15 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_16 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_17 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+	
+	#gioco_18 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+	
+	
+	
+	#div_sfoglia {
+		width:210px;
+		margin-bottom:40px;
+		border-radius: 10px 10px 10px 10px;
+	}
+	
+	#gioco_0 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_1 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_2 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_3 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_4 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_5 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_6 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_7 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_8 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_9 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_10 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_11 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_12 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_13 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_14 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_15 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_16 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+	
+	#gioco_17 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:left;
+	}
+	
+	#gioco_18 {
+		width:50%;
+		padding-left:4%;
+		padding-right:4%;
+		float:right;
+	}
+}
+
+
+@media screen and (max-width: 584px) {
+	
+	
+	
+	#gioco_0 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+		
+	}
+	
+	#gioco_1 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_2 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_3 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_4 {
+	   	width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_5 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_6 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_7 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_8 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_9 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_10 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_11 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_12 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_13 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_14 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_15 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_16 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_17 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+	
+	#gioco_18 {
+		width:100%;
+		padding-left:10%;
+		padding-right:10%;
+		float:none;
+	}
+}
+
+
+@media screen and (max-width: 420px) {
+	
+	
+	
+	#gioco_0 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+		
+	}
+	
+	#gioco_1 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_2 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_3 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_4 {
+	   	width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_5 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_6 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_7 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_8 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_9 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_10 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_11 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_12 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_13 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_14 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_15 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_16 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_17 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+	
+	#gioco_18 {
+		width:100%;
+		padding-left:0%;
+		padding-right:0%;
+		float:none;
+	}
+}
+
+
+
+
+
+
+
+
+
+

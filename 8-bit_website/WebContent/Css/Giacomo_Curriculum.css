@@ -1,0 +1,97 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+	background-size: cover;
+	color:white;
+}
+
+header.top {
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+}
+
+header.top h1#nome {
+	font-family: Sans Serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 500;
+	text-align: center;
+	color:white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: silver;
+}
+#footer_page {
+	background-color: gray;
+	padding-top: -10px;
+	padding-bottom: 10px;
+	margin-left: 45px;
+	margin-right: 50px;
+	margin-top: 150px;
+}
+
+#istruzione {
+	font-family: Arial;
+	font-size: 25px;
+	padding-top: 50px;
+	padding-right: 100px;
+	padding-left: 50px;
+}
+
+#istruzione1 {
+	font-family: Arial;
+	font-size: 25px;
+	padding-right: 100px;
+	padding-left: 12.5%;
+}
+
+#lingue {
+	font-family: Arial;
+	font-size: 25px;
+	padding-right: 100px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+#competenze_informatiche {
+	font-family: Arial;
+	font-size: 25px;
+	padding-right: 100px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+p {
+	font: Arial 40px normal;
+	color: white;
+	padding-top: 20px;
+}
+
+#footer_page {
+	padding-top: -10%;
+}
