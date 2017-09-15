@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>8bit</display-name>
+  <servlet>
+    <servlet-name>InserimentoServlet</servlet-name>
+    <servlet-class>control.InserimentoServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InserimentoServlet</servlet-name>
+    <url-pattern>/InserimentoServlet</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>home2.jsp</welcome-file>
+  </welcome-file-list>
+  <resource-ref>
+    <description>Connessione database</description>
+    <res-ref-name>jdbc/8bit</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref>
+  <servlet>
+    <servlet-name>InserimentoGiocoServlet</servlet-name>
+    <servlet-class>control.InserimentoGiocoServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InserimentoGiocoServlet</servlet-name>
+    <url-pattern>/InserimentoGiocoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LogInServlet</servlet-name>
+    <servlet-class>control.LogInServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogInServlet</servlet-name>
+    <url-pattern>/LogInServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LogOutServlet</servlet-name>
+    <servlet-class>control.LogOutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogOutServlet</servlet-name>
+    <url-pattern>/logout</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
